@@ -1,3 +1,56 @@
+🤝 Contributing
+
+This is a collaborative learning and development project under Deploy the Dreams.
+
+We welcome developers who are interested in learning, sharing knowledge, solving problems, and building real-world applications.
+
+How to Contribute
+
+📌 How to Contribute
+
+1. Check GitHub Issues and understand the day’s tasks.
+2. Pull the latest boilerplate code from BOILERPLATE BRANCH e.g. DAY00-BOILERPLATE.
+3. Create your branch: DAY00-YOUR-NAME. (No boilerplate in the name).
+4. Implement the tasks yourself. No vibe coding!
+5. Test, commit and push your changes.
+6. Raise a PR referencing the corresponding Issue.
+
+Need help? Check the Direct Code / Reference Implementation or ask the community.
+
+Focus on learning, understanding and building together!
+
+Learn Together. Build Together. Deploy Together. 🚀
+
+Please maintain clean code, follow established project conventions, and document significant changes.
+
+⸻
+
+🌱 About Deploy the Dreams
+
+Deploy the Dreams is a developer community built around one simple belief:
+
+Learning becomes more meaningful when we build together.
+
+We aim to create an environment where developers can:
+
+* Learn new technologies.
+* Work on practical projects.
+* Share knowledge and experiences.
+* Collaborate with other developers.
+* Turn ideas into real products.
+
+Learn Together. Build Together. Deploy Together.
+
+⸻
+
+📌 Project Status
+
+🚧 Currently in Development
+
+This project is actively evolving. Features, architecture, and documentation will be updated as development progresses.
+
+⸻
+
 📚 Book Rental System
 
 A collaborative Java Spring Boot project by Deploy the Dreams.
@@ -159,50 +212,6 @@ We plan to develop this application incrementally.
 * Unit and integration testing.
 * API documentation.
 * Deployment.
-
-⸻
-
-🤝 Contributing
-
-This is a collaborative learning and development project under Deploy the Dreams.
-
-We welcome developers who are interested in learning, sharing knowledge, solving problems, and building real-world applications.
-
-How to Contribute
-
-1. Fork the repository (if permitted).
-2. Create a feature branch.
-3. Implement your changes.
-4. Test your implementation.
-5. Submit a Pull Request for review.
-
-Please maintain clean code, follow established project conventions, and document significant changes.
-
-⸻
-
-🌱 About Deploy the Dreams
-
-Deploy the Dreams is a developer community built around one simple belief:
-
-Learning becomes more meaningful when we build together.
-
-We aim to create an environment where developers can:
-
-* Learn new technologies.
-* Work on practical projects.
-* Share knowledge and experiences.
-* Collaborate with other developers.
-* Turn ideas into real products.
-
-Learn Together. Build Together. Deploy Together.
-
-⸻
-
-📌 Project Status
-
-🚧 Currently in Development
-
-This project is actively evolving. Features, architecture, and documentation will be updated as development progresses.
 
 ⸻
 
