@@ -6,11 +6,20 @@ We welcome developers who are interested in learning, sharing knowledge, solving
 
 How to Contribute
 
-1. Fork the repository (if permitted).
-2. Create a feature branch.
-3. Implement your changes.
-4. Test your implementation.
-5. Submit a Pull Request for review.
+📌 How to Contribute
+
+1. Check GitHub Issues and understand the day’s tasks.
+2. Pull the latest boilerplate code from BOILERPLATE BRANCH e.g. DAY00-BOILERPLATE.
+3. Create your branch: DAY00-YOUR-NAME. (No boilerplate in the name).
+4. Implement the tasks yourself. No vibe coding!
+5. Test, commit and push your changes.
+6. Raise a PR referencing the corresponding Issue.
+
+Need help? Check the Direct Code / Reference Implementation or ask the community.
+
+Focus on learning, understanding and building together!
+
+Learn Together. Build Together. Deploy Together. 🚀
 
 Please maintain clean code, follow established project conventions, and document significant changes.
 
