@@ -1,3 +1,47 @@
+🤝 Contributing
+
+This is a collaborative learning and development project under Deploy the Dreams.
+
+We welcome developers who are interested in learning, sharing knowledge, solving problems, and building real-world applications.
+
+How to Contribute
+
+1. Fork the repository (if permitted).
+2. Create a feature branch.
+3. Implement your changes.
+4. Test your implementation.
+5. Submit a Pull Request for review.
+
+Please maintain clean code, follow established project conventions, and document significant changes.
+
+⸻
+
+🌱 About Deploy the Dreams
+
+Deploy the Dreams is a developer community built around one simple belief:
+
+Learning becomes more meaningful when we build together.
+
+We aim to create an environment where developers can:
+
+* Learn new technologies.
+* Work on practical projects.
+* Share knowledge and experiences.
+* Collaborate with other developers.
+* Turn ideas into real products.
+
+Learn Together. Build Together. Deploy Together.
+
+⸻
+
+📌 Project Status
+
+🚧 Currently in Development
+
+This project is actively evolving. Features, architecture, and documentation will be updated as development progresses.
+
+⸻
+
 📚 Book Rental System
 
 A collaborative Java Spring Boot project by Deploy the Dreams.
@@ -159,50 +203,6 @@ We plan to develop this application incrementally.
 * Unit and integration testing.
 * API documentation.
 * Deployment.
-
-⸻
-
-🤝 Contributing
-
-This is a collaborative learning and development project under Deploy the Dreams.
-
-We welcome developers who are interested in learning, sharing knowledge, solving problems, and building real-world applications.
-
-How to Contribute
-
-1. Fork the repository (if permitted).
-2. Create a feature branch.
-3. Implement your changes.
-4. Test your implementation.
-5. Submit a Pull Request for review.
-
-Please maintain clean code, follow established project conventions, and document significant changes.
-
-⸻
-
-🌱 About Deploy the Dreams
-
-Deploy the Dreams is a developer community built around one simple belief:
-
-Learning becomes more meaningful when we build together.
-
-We aim to create an environment where developers can:
-
-* Learn new technologies.
-* Work on practical projects.
-* Share knowledge and experiences.
-* Collaborate with other developers.
-* Turn ideas into real products.
-
-Learn Together. Build Together. Deploy Together.
-
-⸻
-
-📌 Project Status
-
-🚧 Currently in Development
-
-This project is actively evolving. Features, architecture, and documentation will be updated as development progresses.
 
 ⸻
 
