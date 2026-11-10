@@ -49,8 +49,8 @@ Follow these steps for every daily task.
 Clone the project to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/deploy-the-dreams/booknest-spring-boot.git
+cd booknest-spring-boot
 ```
 
 ### Step 3: Create Your Branch
@@ -66,7 +66,7 @@ git checkout -b your-name/day-01-task-title
 Example:
 
 ```bash
-git checkout -b shubham/day-01-javascript-basics
+git checkout -b shubham/day-01-java-spring-intilizr
 ```
 
 Please maintain this naming convention for consistency.
