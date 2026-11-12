@@ -4,8 +4,6 @@ This is a collaborative learning and development project under Deploy the Dreams
 
 We welcome developers who are interested in learning, sharing knowledge, solving problems, and building real-world applications.
 
-How to Contribute
-
 📌 How to Contribute
 
 1. Check GitHub Issues and understand the day’s tasks.
